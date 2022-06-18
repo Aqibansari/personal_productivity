@@ -1,0 +1,20 @@
+{
+  "name": "personal_productivity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aqibansari/personal_productivity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aqibansari/personal_productivity/issues"
+  },
+  "homepage": "https://github.com/Aqibansari/personal_productivity#readme"
+}
